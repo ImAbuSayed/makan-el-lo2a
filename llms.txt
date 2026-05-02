@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عيني اللي سحرني بنظرة
+> قلبي في ليلك ضايع بيلقى فجره
+> روحي تناديلك من شوق وحسرة
+> في كل همسة حب أحسها بكثرة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
