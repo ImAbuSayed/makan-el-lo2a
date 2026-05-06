@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makan-el-lo2a/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Makan El Lo2a](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
